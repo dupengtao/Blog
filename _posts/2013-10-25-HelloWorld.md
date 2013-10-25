@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Hello World!
+tags: 
+datetime: 2013-10-25 17:34:12
+pv: 40
+comment: 1
+share:
 ---
 
 {{ page.title }}
